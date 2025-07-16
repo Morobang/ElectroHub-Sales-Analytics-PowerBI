@@ -93,6 +93,3 @@ This Power BI dashboard provides actionable insights into ElectroHub's sales ope
 This project is open-source under the [MIT License](LICENSE).  
 
 ---
-
-**🌟 Happy Analyzing!**  
-Let me know if you'd like any modifications or additional details! 🚀
