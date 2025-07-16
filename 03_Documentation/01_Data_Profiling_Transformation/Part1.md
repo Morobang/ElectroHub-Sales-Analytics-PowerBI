@@ -31,7 +31,7 @@ Checked for all 4 tables (`Fact_Table`, `Dim_Customers`, `Dim_Promotion`, `Dim_P
   ![](/04_Assets/Screenshots/Dim_Promotion.png)
 
 
-### **🔧 Power Query Scripts**  
+### ** Power Query Scripts**  
 1. **Dim_Promotion_Transform.txt**:  
    ```m
    // Step 1: Use first row as headers
